@@ -1,1 +1,2 @@
 # Lab8-Starter
+> Graceful degradation is about building applications using the latest tech but still work resasonable well if some features aren't supported. Service workers work in the same way by enabling offline supportand as a strategy to contirbute to graceful degradation when the network is not available. This gives users a seamless experience regardless of their connection to the internet and the app handles the situation of not internet without breaking down.
